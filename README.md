@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou o Bruno Oliveira! </h2>
-<p align="center">Atuo como Desenvolvedor FullStack com foco em Java, Spring Boot e Angular, construindo aplicações web modernas, escaláveis e de alto desem- penho. Minha experiência inclui desde a modelagem de bancos de dados e desenvolvimento de APIs RESTful até a criação de interfaces responsivas e intuitivas. </p>
+<p align="center">Atuo como Desenvolvedor FullStack com foco em Java, Spring Boot e Angular, construindo aplicações web modernas, escaláveis e de alto desempenho. Minha experiência inclui desde a modelagem de bancos de dados e desenvolvimento de APIs RESTful até a criação de interfaces responsivas e intuitivas. </p>
 
 <p align="center">
           Em constante evolução, buscando aprofundar conhecimentos em arquitetura de software, boas práticas de código e tecnologias emergentes. Aberto a oportunidades desafiadoras em desenvolvimento enterprise, sistemas integrados ou iniciação no ecossistema SAP 💻🔧
