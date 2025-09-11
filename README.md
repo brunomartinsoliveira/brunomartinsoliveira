@@ -1,9 +1,10 @@
 <h2 align="center">Olá, eu sou o Bruno Oliveira! </h2>
-<p align="center">Estudando o typescript, e atualmente atuo como desenvolvedor FullStack. Possuo experiencia em desenvolvimento FullStack (Java + Angular). Possuo certificações em Java (Spring, MySQL, MongoDB, GitHub) e JavaScript (React, HTML, CSS e TypeScript). Estou em constante evolução, buscando aplicar e ampliar meus conhecimentos em projetos desafiadores. </p>
+<p align="center">Atuo como Desenvolvedor FullStack com foco em Java, Spring Boot e Angular, construindo aplicações web modernas, escaláveis e de alto desem- penho. Minha experiência inclui desde a modelagem de bancos de dados e desenvolvimento de APIs RESTful até a criação de interfaces responsivas e intuitivas. </p>
 
 <p align="center">
-          Gosto de tecnologias, jogos e ciclismo de estrada. Aqui você encontrará projetos e meus experimentos :) 💻👾🚴‍♂️🔧
+          Em constante evolução, buscando aprofundar conhecimentos em arquitetura de software, boas práticas de código e tecnologias emergentes. Aberto a oportunidades desafiadoras em desenvolvimento enterprise, sistemas integrados ou iniciação no ecossistema SAP 💻🔧
 </p>
+
 
 ---
 <div style="display: inline_block"><br>
@@ -17,8 +18,10 @@
 <img align="center" alt="Bruno-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" alt="Bruno-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Bruno-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Bruno-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="center" alt="Bruno-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
+          
+          
 ###
 
 <h4 align="center">Back-End Development</h4>
